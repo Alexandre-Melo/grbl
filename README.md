@@ -1,3 +1,16 @@
+Observações: 
+
+- Testado com sucesso somente com Arduino Uno. 
+- Não é compatível com Arduino Leonardo! Resulta em erros de compilação!
+- Instruções para compilar estão no Wiki deste projeto.
+
+
+
+
+
+
+
+
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 
 ***
